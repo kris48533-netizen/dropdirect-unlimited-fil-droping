@@ -1,0 +1,6 @@
+{
+  "name": "DropDirect - Bezlimitowe Przesyłanie Plików",
+  "description": "Szybkie, bezpieczne i bezpośrednie przesyłanie plików P2P bez limitu wielkości za pomocą WebRTC i linku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

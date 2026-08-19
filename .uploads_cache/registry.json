@@ -1,0 +1,67 @@
+[
+  {
+    "id": "9e0owtb9msypbrqa",
+    "code": "123456",
+    "name": "dokument.pdf",
+    "size": 18,
+    "type": "application/pdf",
+    "totalChunks": 1,
+    "uploadedChunks": 1,
+    "uploadedBytes": 17,
+    "createdAt": 1787059905058,
+    "ready": true,
+    "filePath": "/app/applet/.uploads_cache/9e0owtb9msypbrqa.pdf"
+  },
+  {
+    "id": "rh3ya5p3msyplsrg",
+    "code": "888999",
+    "name": "instalator.exe",
+    "size": 36,
+    "type": "application/x-msdownload",
+    "totalChunks": 1,
+    "uploadedChunks": 1,
+    "uploadedBytes": 36,
+    "createdAt": 1787060372956,
+    "ready": true,
+    "filePath": "/app/applet/.uploads_cache/rh3ya5p3msyplsrg.exe"
+  },
+  {
+    "id": "xxy5270amsypmdts",
+    "code": "924186",
+    "name": "2026-08-17 22-23-20.mp4",
+    "size": 7641596427,
+    "type": "video/mp4",
+    "totalChunks": 3644,
+    "uploadedChunks": 0,
+    "uploadedBytes": 0,
+    "createdAt": 1787060400256,
+    "ready": false,
+    "filePath": "/app/applet/.uploads_cache/xxy5270amsypmdts.mp4"
+  },
+  {
+    "id": "5wdom2hzmsyprnns",
+    "code": "555666",
+    "name": "mojplik.zip",
+    "size": 33,
+    "type": "application/zip",
+    "totalChunks": 1,
+    "uploadedChunks": 1,
+    "uploadedBytes": 33,
+    "createdAt": 1787060646280,
+    "ready": true,
+    "filePath": "/app/applet/.uploads_cache/5wdom2hzmsyprnns.zip"
+  },
+  {
+    "id": "aa77a0brmsyq0q7f",
+    "code": "777888",
+    "name": "super_plik.pdf",
+    "size": 53,
+    "type": "application/pdf",
+    "totalChunks": 1,
+    "uploadedChunks": 1,
+    "uploadedBytes": 53,
+    "createdAt": 1787061069484,
+    "ready": true,
+    "filePath": "/app/applet/.uploads_cache/aa77a0brmsyq0q7f.pdf"
+  }
+]
